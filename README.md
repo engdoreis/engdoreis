@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me
+- I'm currently working at Lowrisc as a Firmware engineer. Where I'm mostly colaborating to [Opentitan](https://opentitan.org/) (An open source silicon Root of trust).
+- I'm currently learning Rustlang and Embedded Rust.
+- I'm an enthusiast of RISC-V assembly.
 
 <!--
 **engdoreis/engdoreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
